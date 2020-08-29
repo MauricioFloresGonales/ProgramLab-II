@@ -1,0 +1,7 @@
+E:\Programacion\clase-2(v2)\clase-2(v2)\obj\Debug\clase-2(v2).csprojAssemblyReference.cache
+E:\Programacion\clase-2(v2)\clase-2(v2)\obj\Debug\clase-2(v2).csproj.CoreCompileInputs.cache
+E:\Programacion\clase-2(v2)\clase-2(v2)\bin\Debug\clase-2(v2).exe.config
+E:\Programacion\clase-2(v2)\clase-2(v2)\bin\Debug\clase-2(v2).exe
+E:\Programacion\clase-2(v2)\clase-2(v2)\bin\Debug\clase-2(v2).pdb
+E:\Programacion\clase-2(v2)\clase-2(v2)\obj\Debug\clase-2(v2).exe
+E:\Programacion\clase-2(v2)\clase-2(v2)\obj\Debug\clase-2(v2).pdb
