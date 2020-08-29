@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pipoca\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pipoca\\.nuget\\packages"
+    ]
+  }
+}
