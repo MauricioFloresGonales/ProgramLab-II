@@ -13,7 +13,7 @@ namespace ConsoleApp1
             int numero = 250;
             int cero = 1;
             double numeroLargo = 200; //el doble que un int
-                                      //tring valor;
+                                      //string valor;
             string valorTexto = "22";
             bool logico = true;
             DateTime dateTime = DateTime.Now;
@@ -45,7 +45,7 @@ namespace ConsoleApp1
             Console.WriteLine(salida);
             Console.ReadLine();// es para parar la consola
 
-            //Concatenarc
+            //Concatenar
             Console.Write("el resultado es: " + salida);
             Console.Write($"el resultado es: {salida}");
             Console.Write("el resultado es: {0}",salida);

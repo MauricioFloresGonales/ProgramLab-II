@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programacion\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\UTN\\2°Cuatrimestre\\(Lu-Mar)-Program&Lab II\\ProgramLab-II\\clase-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Programacion\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\UTN\\2°Cuatrimestre\\(Lu-Mar)-Program&Lab II\\ProgramLab-II\\clase-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programacion\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\UTN\\2°Cuatrimestre\\(Lu-Mar)-Program&Lab II\\ProgramLab-II\\clase-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Programacion\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Pipoca\\.nuget\\packages\\",
-        "outputPath": "E:\\Programacion\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "D:\\UTN\\2°Cuatrimestre\\(Lu-Mar)-Program&Lab II\\ProgramLab-II\\clase-1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\pipoca\\.nuget\\packages\\",
+        "outputPath": "D:\\UTN\\2°Cuatrimestre\\(Lu-Mar)-Program&Lab II\\ProgramLab-II\\clase-1\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pipoca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pipoca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
